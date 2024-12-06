@@ -1,5 +1,8 @@
 Tableau Project for HR 
 following Baraa steps 
+
+![HR DAshboard](https://github.com/user-attachments/assets/f29d00a9-ea69-40dc-ac66-682debcdb0a4)
+
 Sources : https://www.datawithbaraa.com/tableau/tableau-hr-project-thank-you/
 
 HR Dashboard
